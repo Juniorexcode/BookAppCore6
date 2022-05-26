@@ -12,8 +12,7 @@ namespace NETCoreMVC6Test.Data
         }
         public DbSet<Category>Categories{ get; set; }
 
-        //TODO Continuar la implementacion
-        int I = 0;
+    
 
     }   
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUbC3Bi3fAJ8ENbNQZ5NRF5hQ6Y3t8RasY+OulfoGpE6jRdMl0yWrbMCbosuWVAEZkK0qzlrH9Ij4pxRdK6RXA==",
+  "dgSpecHash": "ovZFoJkXhMJ6rfHEEKChkhqPAM9/FH0xNnW34Zwp2AHyjEXfLAr3nSsjPDDaA46gvWKcIDTCSskZQfsq+b2ZWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
+  "projectFilePath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joseo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\joseo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",

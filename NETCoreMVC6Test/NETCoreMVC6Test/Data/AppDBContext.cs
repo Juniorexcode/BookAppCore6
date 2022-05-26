@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using NETCoreMVC6Test.Models;
 
 namespace NETCoreMVC6Test.Data
 {
@@ -7,9 +8,9 @@ namespace NETCoreMVC6Test.Data
 
         public AppDBContext(DbContextOptions<AppDBContext>dboptions): base(dboptions)
         {
-
+           
         }
+        public DbSet<Category>Categories{ get; set; }
 
-
-    }
+    }   
 }

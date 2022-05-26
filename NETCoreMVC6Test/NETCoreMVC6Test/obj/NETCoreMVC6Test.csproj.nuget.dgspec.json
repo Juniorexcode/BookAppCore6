@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj": {}
+    "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj": {
+    "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
+        "projectUniqueName": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
         "projectName": "NETCoreMVC6Test",
-        "projectPath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
+        "projectPath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\NETCoreMVC6Test.csproj",
         "packagesPath": "C:\\Users\\joseo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\NETCoreMVC6Test\\NETCoreMVC6Test\\obj\\",
+        "outputPath": "C:\\Users\\joseo\\Mi unidad\\A-Jun\\JunStuff\\progbasic\\Web Proyects\\BookAppCore6\\NETCoreMVC6Test\\NETCoreMVC6Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
